@@ -134,7 +134,7 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![Alt text](<Screenshot (15).png>)
+![Alt text](<Screenshot (16).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
